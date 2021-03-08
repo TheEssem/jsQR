@@ -2883,5 +2883,6 @@ function jsQR(data, width, height, providedOptions = {}) {
 }
 jsQR.default = jsQR;
 
+module.exports = jsQR;
 //export default jsQR;
 //# sourceMappingURL=jsQR.js.map
